@@ -52,3 +52,23 @@ Start, stop, or reset the countdown as needed.
 
 ![image](https://github.com/user-attachments/assets/ae51c4e2-04d5-43fc-aa62-96e6763de5ef)
 
+-> Stopwatch Interface
+
+![image](https://github.com/user-attachments/assets/05a64840-ee11-4677-b6c7-c5965e5290be)
+
+-> Timer Interface
+
+![image](https://github.com/user-attachments/assets/1114feb8-412f-4866-88cb-48965790b2eb)
+
+## Contributing
+Contributions are welcome!
+To contribute:
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature/your-feature).
+3. Commit your changes (git commit -m 'Add your feature').
+4. Push to the branch (git push origin feature/your-feature).
+5. Open a Pull Request.
+
+## Author
+Developed by Subhransu.
+Feel free to reach out for collaboration or feedback!
